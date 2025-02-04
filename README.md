@@ -4,7 +4,7 @@ I'm a **DevOps Engineer** with extensive experience in designing, implementing, 
 
 My expertise enables me to build **robust, scalable, and secure** DevOps solutions that enhance software deployment efficiency while ensuring the **stability and security** of production environments.  
 
-**Key Skills & Expertise:**  
+🚀 **Key Skills & Expertise:**  
 - **Containerization & Orchestration:** Docker, Kubernetes  
 - **Cloud & Infrastructure Automation:** Terraform, Ansible  
 - **CI/CD Pipelines:** Jenkins, GitHub Actions, GitLab CI  
@@ -15,7 +15,7 @@ My expertise enables me to build **robust, scalable, and secure** DevOps solutio
 
 I'm always open to collaboration and discussions on DevOps best practices. Feel free to connect!  
 
- **Let's Connect:**  
+ 📫 **Let's Connect:**  
  - [GitHub](https://github.com/SarinHem)
  - [LinkedIn](https://www.linkedin.com/in/sarin-hem-439b7a89/)
  - [Medium](https://medium.com/@hemsarin.rupp)
