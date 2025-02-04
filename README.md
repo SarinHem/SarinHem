@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**SarinHem/SarinHem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a DevOps Engineer with extensive experience in designing, implementing, and managing large-scale Docker and Kubernetes clusters. With a strong background in Java and Spring Frameworks, I also specialize in Elastic Stack for data analytics and Automation Testing to ensure continuous testing and high-quality software delivery.
 
-Here are some ideas to get you started:
+My expertise enables me to build robust, scalable, and secure DevOps solutions that enhance software deployment efficiency while ensuring the stability and security of production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Key Skills & Expertise:
+
+Containerization & Orchestration: Docker, Kubernetes
+
+Cloud & Infrastructure Automation: Terraform, Ansible
+
+CI/CD Pipelines: Jenkins, GitHub Actions, GitLab CI
+
+Monitoring & Logging: Elastic Stack (ELK), Prometheus, Grafana
+
+Programming & Scripting: Java (Spring Boot), Python, Bash
+
+Automation Testing: Selenium, JUnit, TestNG
+
+Security & Compliance: DevSecOps, Infrastructure as Code (IaC)
+
+
+I’m always open to collaboration and discussions on DevOps best practices. Feel free to connect!
+
+📫 Let's Connect:
+GitHub | LinkedIn
