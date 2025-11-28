@@ -18,5 +18,5 @@ I'm always open to collaboration and discussions on DevOps best practices. Feel 
  📫 **Let's Connect:**  
  - [GitHub](https://github.com/SarinHem)
  - [LinkedIn](https://www.linkedin.com/in/sarin-hem-439b7a89/)
- - [MyBlog](https://hemsarin.sites)
+ - [MyBlog](https://hemsarin.site)
  - [Medium](https://medium.com/@hemsarin.rupp)
